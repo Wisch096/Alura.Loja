@@ -1,0 +1,53 @@
+# Ignorar arquivos de compilação e saída
+bin/
+obj/
+
+# Ignorar arquivos de configuração do Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignorar arquivos de dependência do NuGet
+packages/
+
+# Ignorar arquivos de log e debug
+*.log
+*.vspscc
+*.vspcc
+
+# Ignorar arquivos de publicação
+publish/
+publish-iis/
+WebPublishMethod
+
+# Ignorar arquivos de compilação e arquivos temporários
+*.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+ipch/
+[Tt]humbs.db
+[Tt]est[Rr]esult*/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+_Analyzers/
+
+# Ignorar arquivos de backup e de histórico
+*.[Pp]ublish.xml
+*.resharper
+*.[Rr]e[Ss]harper
+[Ee]xternal/
+[Ee]xtras/
+[Tt]humbs.db
+[Tt]est[Rr]esult*/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+install/
+obj/
+ipch/
+packages/
